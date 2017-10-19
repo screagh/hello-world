@@ -1,2 +1,3 @@
 # hello-world
-First test project "Hello World!"
+First test project "Hello World!" 
+I'm just learning Git-Hub
